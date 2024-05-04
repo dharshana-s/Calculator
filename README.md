@@ -1,13 +1,9 @@
 LinkedIn: www.linkedin.com/in/dharshana-sivalingam-aa120125a
 # Calculator
 //This contains a program for calculator using JAVA
-
-
-
-
-
-import java.util.Scanner ;
-public class Calculator {
+        
+        import java.util.Scanner ;
+        public class Calculator {
 	static float addition(float[] value)
 	{
 		float add=value[0];
