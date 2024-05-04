@@ -1,6 +1,11 @@
 LinkedIn: www.linkedin.com/in/dharshana-sivalingam-aa120125a
 # Calculator
 //This contains a program for calculator using JAVA
+
+
+
+
+
 import java.util.Scanner ;
 public class Calculator {
 	static float addition(float[] value)
@@ -40,7 +45,6 @@ public class Calculator {
 		return div; 
 	}
 	public static void main(String[] args) {
-		
 		int n;
 		System.out.println("Enter how many values:");
 		Scanner getvalue = new Scanner(System.in);
