@@ -69,6 +69,8 @@ LinkedIn: www.linkedin.com/in/dharshana-sivalingam-aa120125a
 		case 4:
 			System.out.println("The result of division: "+ division(value));
 			break;
+  		 default:
+			System.out.println("No such operation");
 		}
 		getvalue.close();
 	}
